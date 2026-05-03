@@ -1,6 +1,5 @@
-Aqui está a versão atual do seu arquivo `README.md` para revisão:
-
 # Wilson Falco , M.D
+Brazil. Fresh Graduate (Class of 25")
 
 ### **Physician-Scientist** 
 
@@ -12,9 +11,11 @@ My mission is to illuminate and support underserved research areas. By combining
 
 1. **Systems Epidemiology**
 
-2. **Advanced Evidence Synthesis** 3. **Machine Learning**
+2. **Advanced Evidence Synthesis** 
+   
+4. **Machine Learning Applications**
 
-4. **Mixed-Methods (Quanti-Quali, Novel methods...)**
+5. **Mixed-Methods (Quanti-Quali, Novel methods...)**
 
 ## 🛠️ Technical Laboratory & Skills
 
@@ -50,8 +51,6 @@ My mission is to illuminate and support underserved research areas. By combining
 * **Acta Cir Bras (IF 1.4):** *Geographical distribution and access of burn victims to a specialized treatment unit: a cross-sectional study*.
 
 ## 📬 Connectivity
-Follow me on Linkedin: https://www.linkedin.com/in/wilson-f-007774
-
 * **LinkedIn:** [Follow Wilson Falco Neto](https://www.linkedin.com/in/wilson-f-007774)
 
 > *“Calculating the path from trauma to public health recovery.”*
